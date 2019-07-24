@@ -1,4 +1,4 @@
-# Sample integrate speedment with spring boot
+# Speedment Fast ORM Stream
 
 1. Create integrate speedment with spring boot [Here](https://speedment.com/initializer/). Download file init.
 
